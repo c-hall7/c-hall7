@@ -6,12 +6,16 @@ I am currently self-teaching data analyst with a focus on building practical, jo
 My goal is to develop these skills and expertise in data cleaning, analysing, visualisation, and storytelling. 
 
 ### Current tools I am learning: 
- - Python
- - SQL
- - PowerBI
+- Python
+- SQL
+- PowerBI
 
 ### Portfolio Projects:
- - [Video Game Sales Analysis](https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project)
+- [Video Game Sales Analysis](https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project)
+ - cleaned and analysed video game sales data using Python
+ - created data visualisations using Matplotlib and Seaborn
+ - explored what external factors effected global sales
+    
 
 <!--
 **c-hall7/c-hall7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

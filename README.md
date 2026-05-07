@@ -12,9 +12,9 @@ My goal is to develop these skills and expertise in data cleaning, analysing, vi
 
 ### Portfolio Projects:
 - [Video Game Sales Analysis](https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project)
-  - cleaned and analysed video game sales data using Python
-  - created data visualisations using Matplotlib and Seaborn
-  - explored what external factors effected global sales
+  - Cleaned and analysed video game sales data using Python
+  - Created data visualisations using Matplotlib and Seaborn
+  - Explored what external factors effected global sales
     
 
 <!--

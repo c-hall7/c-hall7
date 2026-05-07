@@ -11,7 +11,7 @@ Current tools I am learning:
  - PowerBI
 
 Portfolio Projects:
- - https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project
+ - [https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project](https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project)
 <!--
 **c-hall7/c-hall7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

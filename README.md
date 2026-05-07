@@ -5,12 +5,12 @@ I'm Callum, an aspiring data analyst based in the United Kingdom.
 I am currently self-teaching data analyst with a focus on building practical, job-ready skills through real-world projects.
 My goal is to develop these skills and expertise in data cleaning, analysing, visualisation, and storytelling. 
 
-Current tools I am learning: 
+### Current tools I am learning: 
  - Python
  - SQL
  - PowerBI
 
-Portfolio Projects:
+### Portfolio Projects:
  - [Video Game Sales Analysis](https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project)
 
 <!--

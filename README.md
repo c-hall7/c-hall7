@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
+
+I'm Callum, an aspiring data analyst based in the United Kingdom.
+
+I am currently self-teaching data analyst with a focus on building practical, job-ready skills through real-world projects.
+My goal is to develop these skills and expertise in data cleaning, analysing, visualisation, and storytelling. 
+
+Current tools I am learning: 
+ - Python
+ - SQL
+ - PowerBI
+
+Portfolio Projects:
+VideoGamePortfolioProject
 
 <!--
 **c-hall7/c-hall7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

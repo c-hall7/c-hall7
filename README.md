@@ -14,7 +14,7 @@ My goal is to develop these skills and expertise in data cleaning, analysing, vi
 - 🎮 [Video Game Sales Analysis](https://github.com/c-hall7/PortfolioProjects/tree/main/Video%20Game%20Sales%20Analysis%20Portfolio%20Project)
   - Python exploratory data analysis project
   - Investigated regional sales trends
-  - Analyzed critic score correlations
+  - Analysed critic score correlations
   - Created visualizations using Matplotlib and Seaborn
     
 
